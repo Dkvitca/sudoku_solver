@@ -1,7 +1,6 @@
 //Sudoku Solver in C 
 //By Dan Kvitca.
 
-// TODO: Add a puzzle generator to make original puzzles, then feed those back into the program and solve them
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
